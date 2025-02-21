@@ -1,4 +1,3 @@
-import Image from 'next/image';
 
 export default function Services() {
   return (
@@ -57,7 +56,7 @@ export default function Services() {
           <div className="bg-white text-black p-6 md:p-8 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
             <h3 className="text-xl md:text-2xl font-semibold mb-4">SEO Optimization</h3>
             <p className="text-gray-600">
-              Boost your site's visibility and ranking on search engines with
+              Boost your site,s visibility and ranking on search engines with
               advanced SEO strategies that drive traffic.
             </p>
           </div>

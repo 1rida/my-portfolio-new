@@ -10,7 +10,7 @@ const Contact = () => {
         <div className="text-center">
         <span className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-pink-500 to-purple-500 hover:from-yellow-500 hover:via-red-500 hover:to-pink-500 drop-shadow-lg hover:drop-shadow-2xl transition-all duration-300 ease-in-out">
             Contact Me
-          </span>          <p className="text-lg text-white mb-12">I'd love to hear from you! Whether you have a question or just want to say hi.</p>
+          </span>          <p className="text-lg text-white mb-12">I would love to hear from you! Whether you have a question or just want to say hi.</p>
         </div>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
           {/* Contact Form */}
@@ -56,7 +56,7 @@ const Contact = () => {
           {/* Contact Information */}
           <div className="bg-gray-600 text-white p-10 shadow-2xl rounded-3xl flex flex-col justify-center items-center space-y-8">
             <h3 className="text-3xl font-semibold mb-6">Reach Out</h3>
-            <p className="text-lg mb-4 text-center">Feel free to get in touch with me via WhatsApp or Email. I'm always open to new opportunities and collaborations!</p>
+            <p className="text-lg mb-4 text-center">Feel free to get in touch with me via WhatsApp or Email. I am always open to new opportunities and collaborations!</p>
             <div className="space-y-6 text-lg">
               {/* WhatsApp */}
               <div className="flex items-center space-x-4">

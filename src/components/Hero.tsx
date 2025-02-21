@@ -16,7 +16,8 @@ export default function Hero() {
               Web Development <br /> That Delivers
             </h1>
             <p className="text-lg mb-6">
-            "I specialize in crafting high-performance, user-friendly websites and applications. With a focus on clean code, responsive design, and the latest technologies, I help bring your ideas to life in the digital world My mission is to transform your ideas into interactive and visually stunning web applications. I use the best development practices and modern tools to create scalable, responsive websites that meet your business needs."            </p>
+            I specialize in crafting high performance, user friendly websites and applications. With a focus on clean code, responsive design, and the latest technologies, I help bring your ideas to life in the digital world. My mission is to transform your ideas into interactive and visually stunning web applications. I use the best development practices and modern tools to create scalable, responsive websites that meet your business needs.
+            </p>
 
             <div className="flex space-x-4 animate-bounce">
 

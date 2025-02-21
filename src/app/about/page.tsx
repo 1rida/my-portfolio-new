@@ -36,7 +36,7 @@ const About = () => {
           {/* About Description */}
           <div className="flex flex-col justify-center text-center md:text-left ">
             <h2 className="text-3xl sm:text-4xl font-bold mb-4 text-red-500 animate-bounce">
-              <i className="font-serif ">Hi, I'm Rida Rasheed!</i>
+              <i className="font-serif ">Hi, I am Rida Rasheed!</i>
             </h2>
             <p className="text-base sm:text-lg text-white mb-6">
               I am a passionate developer with expertise in building web
@@ -134,7 +134,7 @@ const About = () => {
                 Gaming
               </h4>
               <p className="text-base sm:text-lg text-gray-600">
-                When I'm not coding, you'll often find me immersed in gaming,
+                When I am not coding, you will often find me immersed in gaming,
                 both as a player and a developer of small gaming projects.
               </p>
             </div>
