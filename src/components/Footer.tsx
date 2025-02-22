@@ -23,10 +23,10 @@ export default function Footer() {
               <Link href="https://www.twitter.com/" target="_blank" rel="noopener noreferrer">
                 <FaTwitter className="text-2xl md:text-3xl text-blue-400 hover:text-blue-300" />
               </Link>
-              <Link href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/rida-rasheed-8638402b5/" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin className="text-2xl md:text-3xl text-[#0077b5]" />
               </Link>
-              <Link href="https://www.github.com/" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/1rida" target="_blank" rel="noopener noreferrer">
                 <FaGithub className="text-2xl md:text-3xl text-gray-300 hover:text-gray-500" />
               </Link>
             </div>

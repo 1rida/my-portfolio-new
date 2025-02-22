@@ -28,7 +28,7 @@ const Qualification = () => {
             className="bg-white p-4 shadow-lg rounded-2xl border border-gray-200 text-center md:text-left"
           >
             <h3 className="text-lg md:text-xl font-semibold">{qual.title}</h3>
-            <p className="text-gray-600">{qual.institution}</p>
+            <p className="text-black">{qual.institution}</p>
           </div>
         ))}
       </div>
